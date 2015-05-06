@@ -1,4 +1,4 @@
-# Minny-Tradin-Bot
+# Minny-Trading-Bot
 This is a simple arbitrage Bot developed in my spare time. The python
 file needs to be edited with your specific secret/public keys for
 Cryptsy, Bittrex and Poloniex.
